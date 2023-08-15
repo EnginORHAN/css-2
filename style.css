@@ -1,0 +1,74 @@
+/* html resetleme */
+*{
+    margin: 0;
+    box-sizing: border-box;
+}
+/* html resetleme */
+
+/* img css başlangıç*/
+.first {
+  margin-top: 10px;
+  text-align: center;
+}
+/* img css bitiş */
+/* search-bar başlangıç */
+.second {
+    text-align: center;
+    background-color: rgb(238,238,238);
+    padding: 2px;
+    margin: 0 100px;
+}
+.main {
+    width: 20rem;
+    margin: auto;
+}
+
+/* search-bar bitiş */
+
+/* link başlangıç */
+.link-bar {
+    display: flex;
+    margin:1px 100px ;
+}
+
+.link-1 {
+    text-align: center;
+    background-color: rgb(126,229,218);
+    width: 40%;
+    height: 5rem;
+    padding: 10px;
+}
+.link-1 a {
+    display: block;
+}
+.link-2 {
+    font-size: 13px;
+    text-align: center;
+    background-color: rgb(126,229,218);
+    width: 20%;
+    height: 5rem;
+    margin: 0 2px;
+    padding: 10px;
+}
+.link-2 a {
+    display: block;
+}
+
+.link-3 {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    background-color: rgb(126,229,218);
+    width: 40%;
+    height: 5rem;
+    padding: 10px;
+}
+.link-3 p{ 
+    font-size: 12px; 
+}
+.link-group {
+   
+    justify-content: center;
+    width: 10rem;
+}
+/* link bitiş */
